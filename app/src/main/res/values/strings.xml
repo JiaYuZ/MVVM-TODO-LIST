@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MVVM-TODO-LIST</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="new_item_button">Add Item</string>
+
+    <string name="what_to_do_next">What to do next</string>
+    <string name="enter_what_to_do_next">Enter what to do next</string>
+
+    <string name="empty_input">Cannot summit empty todo!</string>
+
+    <string name="undo_state">UNDO</string>
+    <string name="done_state">DONE</string>
+</resources>
